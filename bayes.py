@@ -1,6 +1,7 @@
 import streamlit as st
 import fitz
 from groq import Groq
+import os
 
 # === CONFIG ===
 GROQ_API_KEY = "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"
