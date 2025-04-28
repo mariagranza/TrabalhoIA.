@@ -43,7 +43,7 @@ def gerar_cronograma(materias, tempo_total):
 
 def main():
     st.title("Organizador Inteligente de Estudos")
-    st.image("logo.png", width=800, caption="Organizador Inteligente de Estudos")
+    st.image("logo.png", width=800)
 
     with st.sidebar:
         st.header("Envie seus materiais")
